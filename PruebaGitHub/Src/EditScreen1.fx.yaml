@@ -369,7 +369,7 @@
             DataCardValue9 As attachments:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 DisplayMode: =Parent.DisplayMode
-                Height: =520
+                Height: =237
                 IsInDataCard: =true
                 Items: =Parent.Default
                 PaddingBottom: =5
@@ -409,4 +409,14 @@
                 Wrap: =false
                 Y: =DataCardKey9.Y
                 ZIndex: =4
+
+    Label1 As label:
+        Align: =Align.Center
+        Height: =70
+        Size: =21
+        Text: ="Hola Prueba de Edición"
+        Width: =560
+        X: =40
+        Y: =1000
+        ZIndex: =6
 

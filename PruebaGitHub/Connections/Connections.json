@@ -1,6 +1,6 @@
 {
   "60d052fb-9031-4259-9c5a-6220ddf3d7e5": {
-    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/bba177535e454db1aa7135d0e6bcffa1",
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/0841ec63e39d48468f9401942ba5ae08",
     "connectionParameters": {
       "sku": "Enterprise"
     },
