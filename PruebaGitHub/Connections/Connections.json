@@ -1,0 +1,28 @@
+{
+  "60d052fb-9031-4259-9c5a-6220ddf3d7e5": {
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/bba177535e454db1aa7135d0e6bcffa1",
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1554/1.0.1554.2707/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://conzultek.sharepoint.com/sites/PortaldeAplicaciones": {
+        "dataSources": {
+          "Aplicaciones": {
+            "tableName": "50fc8cb3-443d-4708-8caf-9d38fef96e17"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Aplicaciones"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "60d052fb-9031-4259-9c5a-6220ddf3d7e5"
+  }
+}
